@@ -13,3 +13,5 @@ Then you need to tell to someone equipped with the machine for drilling and frai
 Finally you can mount the Bras, the Bâti, the Entretoise and the central Axe with the Support of the two motors with reductors.
 
 BR, EO.
+
+PS :  Personally I am using to build the robot the makerbeam XL to set up the Portant and the feet of the robot.
