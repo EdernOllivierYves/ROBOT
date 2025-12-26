@@ -14,4 +14,6 @@ Finally you can mount the Bras, the Bâti, the Entretoise and the central Axe wi
 
 BR, EO.
 
+NB :  Please take care of the aluminium AU4G to make a prototype that is better to turn.
+
 PS :  Personally I am using to build the robot the makerbeam XL to set up the Portant and the feet of the robot.
