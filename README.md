@@ -4,7 +4,7 @@ The ZIP files contain the plans for building the robot of stab with FUSION, to s
 
 First two aluminium blocks of 40x300x400 mm for example sold on the ebay,
 
-Secondly 10 bearings of 22 mm, 2 axes of 6 mm and also few circlips to make up the 2-axis mechanical link for example sold on mchobby and manomano,
+Secondly 10 bearings of 22 mm, 2 axes of 8 mm and also few circlips to make up the 2-axis mechanical link for example sold on mchobby and manomano,
 
 Thirdly 2 motors with reductors of 1:200 for example sold on conrad,
 
