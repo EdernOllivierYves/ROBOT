@@ -10,6 +10,6 @@ Thirdly 2 motors with reductors of 1:200 for example sold on conrad,
 
 Then you need to tell to someone equipped with the machine for drilling and fraising the matter of aluminum AlMg3 aw 5754 and to make the sphere in inox for a good sliping surface ...
 
-Finaly you can mount the Bras, the Bâti, the Entretoise and the central Axe with the Support of the two motors with reductors.
+Finally you can mount the Bras, the Bâti, the Entretoise and the central Axe with the Support of the two motors with reductors.
 
 BR, EO.
