@@ -10,7 +10,9 @@ Also 2 screws of M8 of 60 mm long to fix the Bâti to the Entretoise and 2 axis 
 
 Thirdly 2 motors with reductors of 1:200 for example sold on conrad,
 
-Then you need to tell to someone equipped with the machine for drilling and fraising the matter of aluminum AlMg3 aw 5754 and to make the sphere in inox for a good sliping surface ...
+Then you need to tell to someone equipped with the machine for drilling and fraising the matter of Aluminum AlMg3 aw 5754 and to make the sphere in inox for a good sliping surface ...
+
+... It costs almost 900 € to make a Robot with someone who has the machines to drill and to mill the matter of Aluminium AlMg3 aw 5754.
 
 Finally you can mount the Bras, the Bâti, the Entretoise and the central Axe with the Support of the two motors with reductors.
 
