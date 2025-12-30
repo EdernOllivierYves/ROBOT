@@ -8,7 +8,7 @@ Secondly 10 bearings of 22 mm, 2 axis of 8 mm and also few circlips to make up t
 
 Also 2 screws of M8 of 60 mm long to fix the Bâti to the Entretoise and 2 axis hub to fix the motors to the Support,
 
-Moreover you will need few screws of M3 to mount the two motors and the stwo supports on the shaft of the Robot named the Bras and the central axis of the Robot.
+Moreover you will need few screws of M3 of different lengths to mount the two motors and the stwo supports on the shaft of the Robot named the Bras and the central axis of the Robot.
 
 Thirdly 2 motors with reductors of 1:200 for example sold on conrad,
 
