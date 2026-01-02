@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'ROBOT.step',
-/* time_stamp */ '2026-01-01T10:53:06+01:00',
+/* name */ 'ROBOT2.step',
+/* time_stamp */ '2026-01-01T10:52:45+01:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -1014,15 +1014,15 @@ SOLID_ANGLE_UNIT()
 #907=PRODUCT_DEFINITION_SHAPE('',$,#910);
 #908=SHAPE_REPRESENTATION('',(#405),#900);
 #909=PRODUCT_DEFINITION_CONTEXT('part definition',#914,'design');
-#910=PRODUCT_DEFINITION('ROBOT','ROBOT v59',#911,#909);
+#910=PRODUCT_DEFINITION('ROBOT2','ROBOT2 v3',#911,#909);
 #911=PRODUCT_DEFINITION_FORMATION('',$,#916);
-#912=PRODUCT_RELATED_PRODUCT_CATEGORY('ROBOT v59','ROBOT v59',(#916));
+#912=PRODUCT_RELATED_PRODUCT_CATEGORY('ROBOT2 v3','ROBOT2 v3',(#916));
 #913=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#914);
 #914=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #915=PRODUCT_CONTEXT('part definition',#914,'mechanical');
-#916=PRODUCT('ROBOT','ROBOT v59',$,(#915));
+#916=PRODUCT('ROBOT2','ROBOT2 v3',$,(#915));
 #917=PRESENTATION_STYLE_ASSIGNMENT((#918));
 #918=SURFACE_STYLE_USAGE(.BOTH.,#919);
 #919=SURFACE_SIDE_STYLE('',(#920));
