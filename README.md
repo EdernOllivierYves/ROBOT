@@ -4,9 +4,9 @@ The ZIP files contain the plans for building the robot of stab with FUSION, to s
 
 First two aluminium blocks of 40x300x400 mm for example sold on the ebay,
 
-Secondly 10 bearings of 22 mm, 2 axis of 8 mm and also few circlips to make up the 2-axis mechanical link for example sold on mchobby and manomano,
+Secondly 4 bearings of 22 mm, 1 axis of 8 mm and also few circlips to make up the 2-axis mechanical link for example sold on mchobby and manomano,
 
-Also 2 screws of M8 of 60 mm long to fix the Bâti to the Entretoise and 2 axis hub to fix the motors to the Support,
+Also 2 screws of M8 of 80 mm long to fix the Bâti to the Entretoise and 2 axis hub to fix the motors to the Support,
 
 Moreover you will need few screws of M3 of different lengths to mount the two motors and the stwo supports on the shaft of the Robot named the Bras and the central axis of the Robot.
 
